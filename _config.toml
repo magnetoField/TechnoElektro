@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://magnetofield.github.io/TechnoElektro/"
 languageCode = "en-us"
 title = "Agency"
 theme = "hugo-agency-theme"
@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Techno Elektro"
+  description = "Usługi Smart City"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
