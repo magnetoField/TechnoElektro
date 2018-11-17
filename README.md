@@ -1,12 +1,12 @@
 ### Nasze usugi
 
 Oferujemy następujące usługi:
-*montaż instalacji elektrycznych zgodnie z projektem
-*instalacja systemów alarmowych
-*instalacja automatyki budynkowej
-*instalacja i projektowanie systemów Smart Home
-*automatyka przemysłowa
-*projektowanie systemów audio
+* montaż instalacji elektrycznych zgodnie z projektem
+* instalacja systemów alarmowych
+* instalacja automatyki budynkowej
+* instalacja i projektowanie systemów Smart Home
+* automatyka przemysłowa
+* projektowanie systemów audio
 
 ## Obszar działalności
 
